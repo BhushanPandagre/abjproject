@@ -1,0 +1,17 @@
+.swal-wide {
+    width: 100% !important;
+  }
+  
+  .swal2-popup {
+    z-index: 2000 !important; /* Adjust z-index if needed */
+  }
+
+
+
+  Button{
+    font-family : 'Times New Roman', Times, serif ;
+  }
+
+  .css-10hburv-MuiTypography-root{
+    font-family: 'Trirong ', serif !important ;
+  }
